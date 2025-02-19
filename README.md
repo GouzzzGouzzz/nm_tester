@@ -5,6 +5,6 @@ Clone this repository inside your ft_nm project directory then, simply run the s
 ```cd nm_tester && ./nm_tester.sh```
 
 
-Once finished, check the <ins>**nm_tester/diffs/**</ins>folder for all diffs files.
+Once finished, check the <ins>**nm_tester/diffs/**</ins> folder for all diffs files.
 
 The <ins>**nm_tester/ko_files/**</ins> folder contains only the files where your ft_nm failed.
